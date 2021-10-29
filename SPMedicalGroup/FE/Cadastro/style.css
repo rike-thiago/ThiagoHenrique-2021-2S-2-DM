@@ -34,7 +34,7 @@ header a{
 }
 
 .container_principal{
-    background-color: magenta;
+    /* background-color: magenta; */
     width: 80%;
     height: 80%;
     margin-top: -80px;
@@ -52,7 +52,7 @@ header a{
 }
 
 .bloco_geral{
-    background-color: mediumblue;
+    /* background-color: mediumblue; */
     width: 80%;
     height: 80%;
     font-family: 'Comfortaa', cursive;
@@ -61,14 +61,19 @@ header a{
 }
 
 .infos{
-    background-color: limegreen;
+    background-color: white;
+    width: 350px;
+    border-radius: 10px;
+    border: black solid 1px;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .inputs{
-    background-color: tomato;
+    /* background-color: tomato; */
+    width: 70%;
     height: 70%;
     font-family: 'Comfortaa', cursive;
     display: flex;
@@ -83,6 +88,7 @@ header a{
     border: black solid 1px;
     padding: 5px;
     height: 35px;
+    background-color: #C4C4C4;
 }
 
 #btn_cadastrar{
@@ -95,6 +101,75 @@ header a{
 
 }
 
+hr{
+    background-color: #576BF2;
+    border: black solid 1px;
+    width: 10px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+.geral_lista{
+    /* background-color: yellow; */
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .item_lista{
-    background-color: yellow;
+    background-color: white;
+    border-radius: 10px;
+    border: black solid 1px;
+    width: 90%;
+    height: 115px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.esquerda{
+    /* background-color: red; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.direita{
+    /* background-color: blueviolet; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+footer{
+    background-image: linear-gradient(to right, #576BF2, #002663, #219AF1);
+    height: 300px;
+    display: flex;
+}
+
+#logo_footer{
+    width: 50px;
+    height: 50px;
+    background-color: pink;
+}
+
+.geral_footer{
+    background-color: chocolate;
+}
+
+.bloco_sobre{
+    background-color: chartreuse;
+}
+
+.bloco_suporte{
+
+}
+
+.bloco_social{
+    
 }
