@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("../Login/img/fundo.png");
+    background-size: cover;
+}
+
+main{
+    /* background-color: blue; */
+    height: 708px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    background-image: linear-gradient(to right, #576BF2, #002663, #219AF1);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+header a{
+    text-decoration: none;
+    font-family: 'Comfortaa', cursive;
+    color: white;
+}
+
+.container_principal{
+    background-color: magenta;
+    width: 80%;
+    height: 80%;
+    margin-top: -80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.container_principal h1{
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.bloco_geral{
+    background-color: mediumblue;
+    width: 80%;
+    height: 80%;
+    font-family: 'Comfortaa', cursive;
+    display: flex;
+    justify-content: space-between;
+}
+
+.infos{
+    background-color: limegreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.inputs{
+    background-color: tomato;
+    height: 70%;
+    font-family: 'Comfortaa', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#inputs_i{
+    width: 100%;
+    border-radius: 10px;
+    border: black solid 1px;
+    padding: 5px;
+    height: 35px;
+}
+
+#btn_cadastrar{
+    font-family: 'Comfortaa', cursive;
+    border-radius: 10px;
+    border: black solid 1px;
+    background-color: #576BF2;
+    height: 40px;
+    width: 50%;
+
+}
+
+.item_lista{
+    background-color: yellow;
+}
