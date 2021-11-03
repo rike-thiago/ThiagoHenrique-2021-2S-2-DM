@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("../Login/img/fundo.png");
+    background-size: cover;
+}
+
+main{
+    /* background-color: blue; */
+    height: 708px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    background-image: linear-gradient(to right, #576BF2, #002663, #219AF1);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+header a{
+    text-decoration: none;
+    font-family: 'Comfortaa', cursive;
+    color: white;
+}
+
+#logo_header{
+    width: 40px;
+}

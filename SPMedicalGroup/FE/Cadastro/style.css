@@ -33,6 +33,10 @@ header a{
     color: white;
 }
 
+#logo_header{
+    width: 40px;
+}
+
 .container_principal{
     /* background-color: magenta; */
     width: 80%;
@@ -150,26 +154,69 @@ footer{
     background-image: linear-gradient(to right, #576BF2, #002663, #219AF1);
     height: 300px;
     display: flex;
-}
-
-#logo_footer{
-    width: 50px;
-    height: 50px;
-    background-color: pink;
+    justify-content: center;
+    align-items: center;
 }
 
 .geral_footer{
-    background-color: chocolate;
+    /* background-color: chocolate; */
+    width: 80%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#logo_footer{
+    /* background-color: pink; */
+    width: 150px;
+    height: 150px;
 }
 
 .bloco_sobre{
-    background-color: chartreuse;
+    /* background-color: chartreuse; */
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#link_bloco_sobre{
+    text-decoration: none;
+    color: white;
 }
 
 .bloco_suporte{
+    /* background-color: cyan; */
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
 
+#link_bloco_suporte{
+    text-decoration: none;
+    color: white;
 }
 
 .bloco_social{
-    
+    /* background-color: deeppink; */
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.logos_social{
+    /* background-color: yellowgreen; */
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
