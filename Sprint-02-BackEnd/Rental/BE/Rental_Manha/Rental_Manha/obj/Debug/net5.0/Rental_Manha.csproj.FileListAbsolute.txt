@@ -1,0 +1,60 @@
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\appsettings.json
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.exe
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.deps.json
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.runtimeconfig.json
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.dll
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\ref\Rental_Manha.dll
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.pdb
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.AssemblyInfo.cs
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\staticwebassets\Rental_Manha.StaticWebAssets.Manifest.cache
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\staticwebassets\Rental_Manha.StaticWebAssets.xml
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\scopedcss\bundle\Rental_Manha.styles.css
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.RazorTargetAssemblyInfo.cache
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.csproj.CopyComplete
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.dll
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\ref\Rental_Manha.dll
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.pdb
+C:\Users\thiag\Desktop\SENAI\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.genruntimeconfig.cache
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\appsettings.json
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.exe
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.deps.json
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.runtimeconfig.json
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.dll
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\ref\Rental_Manha.dll
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\Rental_Manha.pdb
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.csproj.AssemblyReference.cache
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.AssemblyInfo.cs
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\staticwebassets\Rental_Manha.StaticWebAssets.Manifest.cache
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\staticwebassets\Rental_Manha.StaticWebAssets.xml
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\scopedcss\bundle\Rental_Manha.styles.css
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.csproj.CopyComplete
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.dll
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\ref\Rental_Manha.dll
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.pdb
+C:\Users\fic\Desktop\Thiago Henrique\rental\BE\Rental_Manha\Rental_Manha\obj\Debug\net5.0\Rental_Manha.genruntimeconfig.cache

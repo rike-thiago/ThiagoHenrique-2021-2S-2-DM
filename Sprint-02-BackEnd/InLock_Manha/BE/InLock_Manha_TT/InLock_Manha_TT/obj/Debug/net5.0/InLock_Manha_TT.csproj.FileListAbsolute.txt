@@ -1,0 +1,67 @@
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\appsettings.json
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.exe
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.deps.json
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.runtimeconfig.json
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.dll
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\ref\InLock_Manha_TT.dll
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.pdb
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.AssemblyInfo.cs
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\staticwebassets\InLock_Manha_TT.StaticWebAssets.Manifest.cache
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\staticwebassets\InLock_Manha_TT.StaticWebAssets.xml
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\scopedcss\bundle\InLock_Manha_TT.styles.css
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.RazorTargetAssemblyInfo.cache
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.csproj.CopyComplete
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.dll
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\ref\InLock_Manha_TT.dll
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.pdb
+C:\Users\thiag\Desktop\SENAI\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.genruntimeconfig.cache
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\appsettings.json
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.exe
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.deps.json
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.runtimeconfig.json
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\ref\InLock_Manha_TT.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\InLock_Manha_TT.pdb
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.csproj.AssemblyReference.cache
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.AssemblyInfo.cs
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\staticwebassets\InLock_Manha_TT.StaticWebAssets.Manifest.cache
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\staticwebassets\InLock_Manha_TT.StaticWebAssets.xml
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\scopedcss\bundle\InLock_Manha_TT.styles.css
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.csproj.CopyComplete
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\ref\InLock_Manha_TT.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.pdb
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\obj\Debug\net5.0\InLock_Manha_TT.genruntimeconfig.cache
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fic\Desktop\Thiago Henrique\InLock_Manha\BE\InLock_Manha_TT\InLock_Manha_TT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

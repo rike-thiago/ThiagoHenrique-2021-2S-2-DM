@@ -1,0 +1,36 @@
+CREATE DATABASE INLOCK_MANHA_TT
+GO
+
+USE INLOCK_MANHA_TT
+GO
+
+CREATE TABLE estudio(
+	idEstudio INT PRIMARY KEY IDENTITY(1,1),
+	nomeEstudio VARCHAR(50) NOT NULL UNIQUE
+);
+GO
+
+CREATE TABLE jogo(
+	idJogo INT PRIMARY KEY IDENTITY(1,1),
+	idEstudio INT FOREIGN KEY REFERENCES estudio(idEstudio),
+	nomeJogo VARCHAR(30) NOT NULL UNIQUE,
+	descricao VARCHAR(250) NOT NULL,
+	dataLancamento DATE NOT NULL,
+	valor MONEY NOT NULL,
+);
+GO
+
+CREATE TABLE tipoUsuario(
+	idTipoUsuario INT PRIMARY KEY IDENTITY(1,1),
+	titulo VARCHAR(13)
+);
+GO
+
+CREATE TABLE usuario(
+	idUsuario INT PRIMARY KEY IDENTITY(1,1),
+	idTipoUsuario INT FOREIGN KEY REFERENCES tipoUsuario(idTipoUsuario),
+	email VARCHAR(50) NOT NULL UNIQUE,
+	nomeUsuario VARCHAR(30) NOT NULL,
+	senha VARCHAR(30) NOT NULL
+);
+GO

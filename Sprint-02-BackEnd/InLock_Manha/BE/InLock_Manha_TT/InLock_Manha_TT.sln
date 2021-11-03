@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InLock_Manha_TT", "InLock_Manha_TT\InLock_Manha_TT.csproj", "{C7813A68-D092-405E-9124-4ED35B0B4475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7813A68-D092-405E-9124-4ED35B0B4475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7813A68-D092-405E-9124-4ED35B0B4475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7813A68-D092-405E-9124-4ED35B0B4475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7813A68-D092-405E-9124-4ED35B0B4475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86FEF397-01E2-4455-B661-B501FFADD432}
+	EndGlobalSection
+EndGlobal
