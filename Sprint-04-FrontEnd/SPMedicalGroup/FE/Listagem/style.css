@@ -31,8 +31,7 @@ header{
 }
 
 .links_header{
-    /* background-color: yellow; */
-    width: 1000px;
+    width: 65%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -48,10 +47,86 @@ header a{
     width: 40px;
 }
 
+#logo_header_link{
+    position: absolute;
+}
 
+.container_principal{
+    /* background-color: magenta; */
+    width: 80%;
+    height: 80%;
+    margin-top: -55px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
 
+.container_principal h1{
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+}
 
+.bloco_geral{
+    /* background-color: mediumblue; */
+    width: 80%;
+    height: 80%;
+    font-family: 'Comfortaa', cursive;
+    display: flex;
+    justify-content: center;
+}
 
+.infos{
+    background-color: white;
+    border-radius: 10px;
+    border: black solid 1px;
+    padding: 40px;
+    width: 80%;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.item_lista{
+    background-color: #C4C4C4;
+    border-radius: 10px;
+    border: black solid 1px;
+    width: 60%;
+    height: 250px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* align-items: center; */
+    margin-bottom: 10px;
+}
+
+.dados_lista{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.esquerda{
+    /* background-color: red; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 25px;
+}
+
+.direita{
+    /* background-color: blueviolet; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 25px;
+}
 
 footer{
     background-image: linear-gradient(to right, #576BF2, #002663, #219AF1);
