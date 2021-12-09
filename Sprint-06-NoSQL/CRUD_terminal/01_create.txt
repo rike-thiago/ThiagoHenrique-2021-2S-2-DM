@@ -1,0 +1,38 @@
+1.	Defina o uso do banco de dados "cursos"
+use cursos
+
+
+2.	Crie uma collection para armazenar as "matérias"
+db.createCollection("materias")
+
+
+3.	Insira 5 novos registros conforme descrições abaixo:
+
+db.materias.insert({ Titulo : "Titulo U", Descricao : "Java", Concluida : true })
+
+db.materias.insert({ Titulo : "Titulo O", Descricao : "CSharp", Concluida : false })
+
+db.materias.insert({ Titulo : "Titulo P", Descricao : "Firebase" })
+
+db.materias.insert({ Titulo : "Titulo Y", Descricao : "Microsoft" })
+
+db.materias.insert({ Titulo : "Titulo R", Decricao : "Oracle", DataInclusao : "09/12/2021" })
+
+
+Titulo = Titulo U
+Descrição = Java
+Concluída = verdadeiro
+
+Titulo = Titulo O
+Descrição = CSharp
+Concluída = falso
+
+Titulo = Titulo P
+Descrição = Firebase
+
+Titulo = Titulo Y
+Descrição = Microsoft
+
+Titulo = Titulo R
+Descrição = Oracle
+Data de Inclusão = data de hoje
